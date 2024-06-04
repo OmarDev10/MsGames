@@ -1,0 +1,20 @@
+body
+{
+    background-color: greenyellow;
+    background-image: url("zaza.jpg");
+    background-repeat: no-repeat;
+    background-size: 1300px;
+}
+h1
+{
+    color: white;
+    font-size: 75px;
+}
+h2
+{
+    color: white;
+}
+h3
+{
+    color: white;
+}
