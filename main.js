@@ -17,3 +17,8 @@ function Game3()
     window.location.replace("Game3.html")
     console.log("Starting game3");
 }
+function Youtube()
+{
+    window.location.replace("Youtube.html")
+    console.log("Starting yt");
+}
